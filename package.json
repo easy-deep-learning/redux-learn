@@ -1,0 +1,14 @@
+{
+  "name": "redux-learn",
+  "version": "1.0.0",
+  "description": "Redux learning stub ",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
